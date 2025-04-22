@@ -104,7 +104,7 @@ GET /api/v1/schools/listSchools?latitude=19.0760&longitude=72.8777
 
 ### 📂 Steps:
 ```bash
-git clone https://github.com/yourusername/SchoolManagment.git
+git clone https://github.com/GuptaShubham-11/SchoolManagment.git
 cd SchoolManagment
 npm install
 ```
