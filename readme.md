@@ -62,8 +62,6 @@ Supports adding new schools and fetching a sorted list based on geographical pro
 
 ### 🎯 List Schools Sorted by Distance
 
-# CHECK RIGHT NOW IN NEW TAB ENTER THI URL GET DATA
-
 - **URL:** `https://schoolmanagment-8gnk.onrender.com/api/v1/schools/listSchools`
 - **Method:** `GET`
 - **Query Params:**
@@ -71,8 +69,9 @@ Supports adding new schools and fetching a sorted list based on geographical pro
   - `longitude` (number)
 
 **Example Request:**
+# CHECK RIGHT NOW IN NEW TAB ENTER THIS URL TO GET DATA
 ```
-GET /api/v1/schools/listSchools?latitude=19.0760&longitude=72.8777
+GET https://schoolmanagment-8gnk.onrender.com/api/v1/schools/listSchools?latitude=19.0760&longitude=72.8777
 ```
 
 ✅ **Success Response:**
