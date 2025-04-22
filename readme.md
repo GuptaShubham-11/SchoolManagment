@@ -174,7 +174,7 @@ package.json
 ## 🚀 Deployment
 
 Backend hosting platform:
-- [Railway](https://railway.app)
+- [Render](https://render.com)
 
 ---
 
