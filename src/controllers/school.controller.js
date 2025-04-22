@@ -27,8 +27,6 @@ const addSchool = asyncHandler(async (req, res) => {
         [name, address]
     );
 
-    console.log(existingSchool);
-
     if (existingSchool.length > 0) {
         throw new ApiError(400, "School already exists");
     }

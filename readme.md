@@ -180,4 +180,4 @@ Backend hosting platform:
 
 ## 🙌 Credits
 
-Created by **[Gupta Shubham]**
+Created by **Gupta Shubham**

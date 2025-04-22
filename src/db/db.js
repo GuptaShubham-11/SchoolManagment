@@ -9,10 +9,10 @@ const connectToDb = async () => {
             database: process.env.DB_NAME,
             port: process.env.DB_PORT,
         });
-        console.log('Connected to the database successfully!');
+        // console.log('Connected to the database successfully!');
         return connection;
     } catch (error) {
-        console.error('Error connecting to the database:', error.message);
+        // console.error('Error connecting to the database:', error.message);
         throw error;
     }
 }
