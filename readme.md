@@ -35,7 +35,7 @@ Supports adding new schools and fetching a sorted list based on geographical pro
 
 ### 🎯 Add a School
 
-- **URL:** `/api/v1/schools/addSchool`
+- **URL:** `https://schoolmanagment-8gnk.onrender.com/api/v1/schools/addSchool`
 - **Method:** `POST`
 - **Content-Type:** `application/json`
 - **Payload Example:**
@@ -62,7 +62,9 @@ Supports adding new schools and fetching a sorted list based on geographical pro
 
 ### 🎯 List Schools Sorted by Distance
 
-- **URL:** `/api/v1/schools/listSchools`
+# CHECK RIGHT NOW IN NEW TAB ENTER THI URL GET DATA
+
+- **URL:** `https://schoolmanagment-8gnk.onrender.com/api/v1/schools/listSchools`
 - **Method:** `GET`
 - **Query Params:**
   - `latitude` (number)
