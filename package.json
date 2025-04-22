@@ -1,0 +1,20 @@
+{
+  "name": "schoolapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "description": "This is a school API that provides information about students, teachers, and classes. It allows users to retrieve, add, update, and delete records related to students, teachers, and classes. The API is built using Node.js, Express.js and MySQL.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0",
+    "nodemon": "^3.1.9"
+  }
+}
