@@ -141,6 +141,9 @@ npm run dev
 
 ## 🧪 Test with Postman
 
+# Postman Collection For Testing With Examples:
+- https://.postman.co/workspace/My-Workspace~5ab52a50-cfa8-440d-83e3-9da3e2aa4ac0/collection/40727144-3f5bf842-eb63-4548-a02e-e22964edccf9?action=share&creator=40727144&active-environment=40727144-c34c197f-8242-4d2d-b64c-e37063e0a3e1
+
 ### Example:
 - Add a new school (POST)
 - List schools nearby (GET)
